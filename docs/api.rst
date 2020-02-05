@@ -76,7 +76,8 @@ GET api/presets
 =================================
 
 Returns information about all the presets saved on LedFx as Json
-================================
+
+=================================
 WebSocket API
 ================================
 
