@@ -72,6 +72,10 @@ DELETE /api/effects/<effectId>
 ================================
 Deletes the effect with the matching effect id.
 
+GET api/presets
+=================================
+
+Returns information about all the presets saved on LedFx as Json
 ================================
 WebSocket API
 ================================
